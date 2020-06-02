@@ -1,0 +1,24 @@
+HTTrack3.49-1+htsswf+htsjava launched on Mon, 01 Jun 2020 08:46:13 at https://sieuthuthuat.com/bin/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sieuthuthuat.com/bin/ -O1 "E:\ccgen\new" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:46:29	Warning: 	Note: due to https://sieuthuthuat.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/, /search?q=*, *?replytocom, */attachment/* (see in the options to disable this)
+08:46:35	Warning: 	Retry after error -4 (Connect Error) at link https://sieuthuthuat.com/bin/ (from primary/primary)
+08:48:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sieuthuthuat.com/bin/files/font-awesome.min.css (from https://sieuthuthuat.com/bin/)
+08:48:47	Warning: 	Retry after error -4 (Connect Error) at link https://sieuthuthuat.com/bin/img/close.png (from https://sieuthuthuat.com/bin/files/style.css)
+08:51:28	Warning: 	Retry after error -4 (Connect Error) at link https://sieuthuthuat.com/bin/img/close.png (from https://sieuthuthuat.com/bin/files/style.css)
+08:51:28	Error: 	"Not Found" (404) at link https://sieuthuthuat.com/bin/fonts/fontawesome-webfont.eot?v=4.6.3 (from https://sieuthuthuat.com/bin/files/font-awesome.min.css)
+08:51:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sieuthuthuat.com/bin/fonts/fontawesome-webfont.eot? (from https://sieuthuthuat.com/bin/files/font-awesome.min.css)
+08:51:28	Error: 	"Not Found" (404) at link https://sieuthuthuat.com/bin/fonts/fontawesome-webfont.woff2?v=4.6.3 (from https://sieuthuthuat.com/bin/files/font-awesome.min.css)
+08:51:28	Error: 	"Not Found" (404) at link https://sieuthuthuat.com/bin/fonts/fontawesome-webfont.woff?v=4.6.3 (from https://sieuthuthuat.com/bin/files/font-awesome.min.css)
+08:51:28	Warning: 	Retry after error -4 (Connect Error) at link https://sieuthuthuat.com/bin/fonts/fontawesome-webfont.ttf?v=4.6.3 (from https://sieuthuthuat.com/bin/files/font-awesome.min.css)
+08:51:28	Error: 	"Not Found" (404) at link https://sieuthuthuat.com/bin/fonts/fontawesome-webfont.svg?v=4.6.3 (from https://sieuthuthuat.com/bin/files/font-awesome.min.css)
+08:51:52	Error: 	"Not Found" (404) at link https://sieuthuthuat.com/bin/fonts/fontawesome-webfont.eot? (from https://sieuthuthuat.com/bin/files/font-awesome.min.css)
+08:51:52	Error: 	"Not Found" (404) at link https://sieuthuthuat.com/bin/fonts/fontawesome-webfont.ttf?v=4.6.3 (from https://sieuthuthuat.com/bin/files/font-awesome.min.css)
+
+HTTrack Website Copier/3.49-1 mirror complete in 5 minutes 39 seconds : 24 links scanned, 11 files written (211027 bytes overall) [270085 bytes received at 796 bytes/sec], 448524 bytes transferred using HTTP compression in 8 files, ratio 18%
+(6 errors, 7 warnings, 0 messages)
